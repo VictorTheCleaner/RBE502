@@ -1,18 +1,4 @@
 
-% dummy variables for testing:
-
-psi = pi/4
-angular_matrix = [0 1 pi/2]
-
-%g = rotate_x(angular_matrix, psi);
-%g
-
-theta = pi/4
-phi = pi/2
-angular_matrix = [pi/2 pi/2 pi/2]
-
-g = rotate_m(angular_matrix, phi, theta, psi);
-g
 
 % Rotation around X axis (PHI)
 
